@@ -35,5 +35,5 @@ pip install -r requirements.txt
 ```
 2. Run the Model
 ```bash
-python 
+python equity_esg_portfolio.py
 ```
