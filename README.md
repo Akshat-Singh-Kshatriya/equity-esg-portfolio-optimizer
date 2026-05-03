@@ -30,10 +30,10 @@ During backtesting (2018-2024 timeframe), transitioning the model from a naive e
    git clone [https://github.com/yourusernameAkshat-Singh-Kshatriya/equity-esg-portfolio-optimizer.git](https://github.com/Akshat-Singh-Kshatriya/equity-esg-portfolio-optimizer.git)
  ```
 2. Install the Dependencies
-```bash
+   ```bash
 pip install -r requirements.txt
 ```
-2. Run the Model
-```bash
+3. Run the Model
+   ```bash
 python equity_esg_portfolio.py
 ```
