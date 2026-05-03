@@ -28,6 +28,7 @@ During backtesting (2018-2024 timeframe), transitioning the model from a naive e
 1. Clone the repository:
    ```bash
 git clone [https://github.com/Akshat-Singh-Kshatriya/equity-esg-portfolio-optimizer.git](https://github.com/Akshat-Singh-Kshatriya/equity-esg-portfolio-optimizer.git)
+cd equity-esg-portfolio-optimizer
  ```
 2. Install the Dependencies
    ```bash
