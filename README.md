@@ -11,6 +11,9 @@ The model extracts live historical market data, filters equities based on simula
 * **Mean-Variance Optimization:** Utilizes `SciPy` to run Sequential Least Squares Programming (SLSQP), replacing equal-weighting with mathematically optimized allocations.
 * **Boundary Constraints:** Implements position sizing constraints (e.g., 5% minimum, 40% maximum per asset) to prevent "corner solutions" and ensure true sector diversification.
 * **Statistical Analytics:** Calculates Annualized Returns, Volatility, Covariance Matrices, and Sharpe Ratios.
+  
+## Portfolio Performance Visualization
+![Portfolio Optimization Results](images/portfolio_performance.png) 
 
 ## Tech Stack
 * **Language:** Python (Pandas, Numpy)
