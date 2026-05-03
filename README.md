@@ -13,7 +13,7 @@ The model extracts live historical market data, filters equities based on simula
 * **Statistical Analytics:** Calculates Annualized Returns, Volatility, Covariance Matrices, and Sharpe Ratios.
   
 ## Portfolio Performance Visualization
-![Portfolio Optimization Results](images/portfolio_performance.png) 
+![Portfolio Optimization Results](images/portfolio-performance.png) 
 
 ## Tech Stack
 * **Language:** Python (Pandas, Numpy)
